@@ -2,8 +2,6 @@
 
 This project is a **Load Balancer Simulation** implemented in C++ that demonstrates how a load balancer distributes incoming requests to multiple servers using threads. The simulation also optimizes the handling of request distribution by managing threads efficiently and dynamically accommodating random request arrivals. This project also simulates "spinning up" and "spinning down" servers to ensure resources are optimized. 
 
----
-
 ## Features
 
 1. **Threaded Load Balancing**:
@@ -16,8 +14,6 @@ This project is a **Load Balancer Simulation** implemented in C++ that demonstra
 3. **Optimization**:
    - Efficient thread management ensures balanced distribution of requests.
    - The load balancer dynamically adjusts to handle the varying request load.
-
----
 
 ## Components
 
@@ -43,6 +39,12 @@ This project is a **Load Balancer Simulation** implemented in C++ that demonstra
 
 ## Executing the Code
 
+1. Compile the code using the MakeFile
+
 ```make```
 
+2. Execute the Code
+
 ```./balancer```
+
+You can view sample output in the output.txt file
