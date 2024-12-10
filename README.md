@@ -51,4 +51,4 @@ make
 ./balancer
 ```
 
-* You can view sample output in the output.txt file.
+You can view sample output in the output.txt file.
