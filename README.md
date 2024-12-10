@@ -41,10 +41,14 @@ This project is a **Load Balancer Simulation** implemented in C++ that demonstra
 
 1. Compile the code using the MakeFile
 
-``` bash make ```
+``` bash 
+make 
+```
 
 2. Execute the Code
 
-``` bash ./balancer ```
+``` bash 
+./balancer
+```
 
-You can view sample output in the output.txt file
+* You can view sample output in the output.txt file.
